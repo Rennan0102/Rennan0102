@@ -7,7 +7,8 @@
 🧠 Participante do [Grupo de Pesquisa em Neurociência Computacional afiliado ao Nutes-PB](https://www.instagram.com/neuro_comp/)  
 📍 Localizado em: Campina Grande, PB
 
-<p align="center">
+## 📫 Fale comigo
+<p align="left">
   <a href="mailto:rennan.fernandess@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -47,3 +48,4 @@
 ## 📈 Estatísticas
 ![Rennan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rennan0102&show_icons=true&theme=tokyonight&locale=pt-br)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rennan0102&layout=compact&theme=tokyonight&locale=pt-br)
+
